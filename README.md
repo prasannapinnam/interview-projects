@@ -1,4 +1,4 @@
-# interview-projects
+# projects
 projects i wanna put in my resume
 
 ## HTML projects
