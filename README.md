@@ -1,5 +1,14 @@
 # projects
-projects i wanna put in my resume
+👋 Dear Interviewer,
+Thank you for taking the time to explore my work. My portfolio features projects built with 
+- **Angular** (including authentication, route guards, RxJS, and modular architecture)
+- as well as core **JavaScript, HTML, and CSS projects** that highlight responsive design and interactive UI development.
+- RESTAPI backend projects 
+
+Each project reflects real-world scenarios, clean coding practices, and performance optimization. I'm happy to walk you through the code, design choices, or architecture in detail during our discussion.
+
+Best regards,
+Prasanna Pinnam
 
 ## HTML projects
 ### RESPONSIVE LOGIN PAGE
