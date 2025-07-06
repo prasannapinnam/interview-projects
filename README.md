@@ -15,3 +15,7 @@ Prasanna Pinnam
 - [click to view responsive Login page hosted in pages](https://prasannapinnam.github.io/scrimba-practice-html-css-login-page/)
 - [click to view responsive Login page code in github](https://github.com/prasannapinnam/scrimba-practice-html-css-login-page/tree/main)
 
+## Javascript Projects
+### Responsive basketball scoreboard
+- [click to view  Responsive basketball scoreboard hosted in pages](https://prasannapinnam.github.io/scrimba-js-practice-basics-basketball-scoreboard/)
+- [click to view Responsive basketball scoreboard code in github](https://github.com/prasannapinnam/scrimba-js-practice-basics-basketball-scoreboard)
