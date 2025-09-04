@@ -19,3 +19,6 @@ Prasanna Pinnam
 ### Responsive basketball scoreboard
 - [click to view  Responsive basketball scoreboard hosted in pages](https://prasannapinnam.github.io/scrimba-js-practice-basics-basketball-scoreboard/)
 - [click to view Responsive basketball scoreboard code in github](https://github.com/prasannapinnam/scrimba-js-practice-basics-basketball-scoreboard)
+
+## React Projects
+- - [click to view all of my react projects](https://github.com/prasannapinnam/react-projects)
